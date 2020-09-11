@@ -1,5 +1,5 @@
-// @Author Lin Ya
-// @Email xxbbb@vip.qq.com
+// @Author Shunjie Guo
+// @Email shunjie@gmail.com
 #include "Timer.h"
 #include <sys/time.h>
 #include <unistd.h>

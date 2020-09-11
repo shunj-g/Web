@@ -1,5 +1,5 @@
-// @Author Lin Ya
-// @Email xxbbb@vip.qq.com
+// @Author Shunjie Guo
+// @Email shunjie@gmail.com
 #include "LogFile.h"
 #include <assert.h>
 #include <stdio.h>

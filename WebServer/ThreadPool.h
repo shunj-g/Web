@@ -1,5 +1,5 @@
-// @Author Lin Ya
-// @Email xxbbb@vip.qq.com
+// @Author Shunjie Guo
+// @Email shunjie@gmail.com
 
 // This file has not been used
 #pragma once
